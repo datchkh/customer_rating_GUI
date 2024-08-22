@@ -3,4 +3,4 @@ from tkinter import messagebox
 import/install sqlite3
 import/install csv
 
-then the code should run successfully
+after everything mentioned above is installed, the code should run successfully (this code will work on every machine since it's a python console code
