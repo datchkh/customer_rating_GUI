@@ -1,0 +1,6 @@
+import/install tkinter as tk
+from tkinter import messagebox
+import/install sqlite3
+import/install csv
+
+then the code should run successfully
